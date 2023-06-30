@@ -15,7 +15,7 @@ sources = [{'download_filename': 'v%(version)s.tar.gz', 'filename': SOURCE_TAR_G
 patches = ['xtb-6.6.0-foss-2022a_fix-custom-libraries.patch']
 
 checksums = [
-    '1845a9ba71c7bdb414e14ef3dad676728c31a2a94b26303551da57704c78a3e3', # v6.6.0.tar.gz
+    '1845a9ba71c7bdb414e14ef3dad676728c31a2a94b26303551da57704c78a3e3',  # v6.6.0.tar.gz
     # xtb-6.6.0-foss-2022a_fix-custom-libraries.patch
     '4e2e21b13a8d71b6b5d29c586fb28423a0f9a9ad518ebdca18cf0fa0cf27bc6e',
 ]
